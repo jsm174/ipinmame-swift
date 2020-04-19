@@ -1,0 +1,23 @@
+PODS:
+  - PinMAME (1.0.0):
+    - PinMAME/framework (= 1.0.0)
+  - PinMAME/framework (1.0.0)
+
+DEPENDENCIES:
+  - PinMAME (from `https://github.com/jsm174/pinmame-ios-framework`)
+
+EXTERNAL SOURCES:
+  PinMAME:
+    :git: https://github.com/jsm174/pinmame-ios-framework
+
+CHECKOUT OPTIONS:
+  PinMAME:
+    :commit: 17c03475ee5ee7ddc50d47398c97a178dd5c2cca
+    :git: https://github.com/jsm174/pinmame-ios-framework
+
+SPEC CHECKSUMS:
+  PinMAME: 1d5effc1229af0dec902905c366df2c30abe5415
+
+PODFILE CHECKSUM: 300e53e913515541e8142842c1cee90bcb0ec28f
+
+COCOAPODS: 1.9.1

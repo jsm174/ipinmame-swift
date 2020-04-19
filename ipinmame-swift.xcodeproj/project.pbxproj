@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		C127EB962417C477009CE22D /* TestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C127EB952417C477009CE22D /* TestView.swift */; };
 		C127EB982417C4E5009CE22D /* TestScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C127EB972417C4E5009CE22D /* TestScrollView.swift */; };
+		C1377BAB244CC5FA00E056F0 /* roms in Resources */ = {isa = PBXBuildFile; fileRef = C1377BAA244CC5FA00E056F0 /* roms */; };
 		C17701DF241333CD002719D7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C17701DE241333CD002719D7 /* AppDelegate.swift */; };
 		C17701E1241333CD002719D7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C17701E0241333CD002719D7 /* SceneDelegate.swift */; };
 		C17701E6241333CD002719D7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C17701E4241333CD002719D7 /* Main.storyboard */; };
@@ -32,6 +33,7 @@
 		7C3FF297D3D3D16F85C85471 /* Pods-ipinmame-swift.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ipinmame-swift.release.xcconfig"; path = "Target Support Files/Pods-ipinmame-swift/Pods-ipinmame-swift.release.xcconfig"; sourceTree = "<group>"; };
 		C127EB952417C477009CE22D /* TestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView.swift; sourceTree = "<group>"; };
 		C127EB972417C4E5009CE22D /* TestScrollView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestScrollView.swift; sourceTree = "<group>"; };
+		C1377BAA244CC5FA00E056F0 /* roms */ = {isa = PBXFileReference; lastKnownFileType = folder; path = roms; sourceTree = "<group>"; };
 		C17701DB241333CD002719D7 /* ipinmame-swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ipinmame-swift.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C17701DE241333CD002719D7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C17701E0241333CD002719D7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 		C17701DD241333CD002719D7 /* ipinmame-swift */ = {
 			isa = PBXGroup;
 			children = (
+				C1377BAA244CC5FA00E056F0 /* roms */,
 				C1A66051242FE7C500D70086 /* MyShaders.metal */,
 				C17701DE241333CD002719D7 /* AppDelegate.swift */,
 				C17701E7241333CF002719D7 /* Assets.xcassets */,
@@ -184,6 +187,7 @@
 				C17701EB241333CF002719D7 /* LaunchScreen.storyboard in Resources */,
 				C17701E8241333CF002719D7 /* Assets.xcassets in Resources */,
 				C1D0BF552415288D003637BC /* ij_l7.zip in Resources */,
+				C1377BAB244CC5FA00E056F0 /* roms in Resources */,
 				C17701E6241333CD002719D7 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
